@@ -2,7 +2,8 @@ $cBg-Yellow: #f9ffcc;
 $cBg-Green: #e2e6cf;
 $cCharGreen: #95997a;
 $cCharBlack: #323329;
-$cFramePink: #e6cfe2;
+$cFramePink: white;
+// #e6cfe2;
 $cWhite: #fff;
 
 * {
@@ -38,7 +39,7 @@ nav {
 main {
   width: 100%;
   background-color: $cBg-Green;
-  margin: 0 auto;
+  padding: 0 20px;
 }
 
 .section-text {

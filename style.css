@@ -29,7 +29,7 @@ nav .nav-item {
 main {
   width: 100%;
   background-color: #e2e6cf;
-  margin: 0 auto;
+  padding: 0 20px;
 }
 
 .section-text {
@@ -69,7 +69,7 @@ main {
   height: 500px;
   width: 30px;
   display: inline-block;
-  background-color: #e6cfe2;
+  background-color: white;
   opacity: 50%;
 }
 .blog-array .blog-item > .decoration:nth-child(1) {
